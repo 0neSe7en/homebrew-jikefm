@@ -3,7 +3,7 @@ class Jikefm < Formula
   homepage "https://github.com/0neSe7en/jikefm"
   url "https://github.com/0neSe7en/jikefm/releases/download/v0.3.1/jikefm-darwin-amd64.tgz"
   version "0.3.1"
-  sha256 "52d8dbc66ffaa2f696a8501fd0a434701b0e29dc56a27fe72a229f13c135f2d3"
+  sha256 "31b8c2bbd5fa869f4bbd04cbd9cd4a281a0995006dfaaea0c3e1e5ef5ac3a521"
 
   def install
     bin.install "jikefm"
