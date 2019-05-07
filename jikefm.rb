@@ -1,4 +1,4 @@
-class JikeFM < Formula
+class Jikefm < Formula
   desc "JIKEFM - 即刻电台📻"
   homepage "https://github.com/0neSe7en/jikefm"
   url "https://github.com/0neSe7en/jikefm/releases/download/v0.3.1/jikefm-darwin-amd64.tgz"
